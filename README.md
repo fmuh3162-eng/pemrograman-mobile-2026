@@ -1,5 +1,5 @@
 Identitas Mahasiswa
-- Nama        : [Isi Nama]
-- NIM         : [Isi NIM]
+- Nama        : MUH. FARID
+- NIM         : H0724511
 - Prodi       : Pendidikan Teknologi Informasi
 - Mata Kuliah : Pemrograman Mobile
