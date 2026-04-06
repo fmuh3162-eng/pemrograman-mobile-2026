@@ -27,7 +27,9 @@ Saya membuat project Flutter menggunakan perintah `flutter create` dan berhasil 
 
 🔹 Praktikum 2: GitHub
 📸 Hasil
+
 LANGKAH 1
+
 
 <img width="1431" height="672" alt="Screenshot 2026-04-06 203115" src="https://github.com/user-attachments/assets/fbb33cbf-1f0c-47e0-ba16-260ef965e9c5" />
 
@@ -54,7 +56,7 @@ langkah 1
 langkah 2
 
 
-<img width="805" height="331" alt="Screenshot 2026-04-07 061801" src="https://github.com/user-attachments/assets/738dd8e6-e220-439a-b910-522b1ce04183" />
+![WhatsApp Image 2026-04-07 at 06 43 21](https://github.com/user-attachments/assets/504f9d98-4ff6-4234-976d-6187ee0db6fb)
 
 
 
