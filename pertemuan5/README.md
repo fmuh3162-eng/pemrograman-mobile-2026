@@ -41,6 +41,27 @@ LANGKAH 2
 
 Saya membuat repository GitHub dan berhasil mengupload project menggunakan git.
 
+---
+
+🔹 Praktikum 3: Menjalankan di Device
+📸 Hasil di HP
+
+langkah 1
+
+
+<img width="983" height="250" alt="Screenshot 2026-04-07 061744" src="https://github.com/user-attachments/assets/8bfa9144-2813-4592-a013-a631f4f0a206" />
+
+langkah 2
+
+
+<img width="805" height="331" alt="Screenshot 2026-04-07 061801" src="https://github.com/user-attachments/assets/738dd8e6-e220-439a-b910-522b1ce04183" />
+
+
+
+📝 Penjelasan
+
+Saya menghubungkan HP dengan USB Debugging dan menjalankan aplikasi menggunakan flutter run.
+
 
 ---
 
