@@ -1,6 +1,7 @@
 # 📱 Tugas Praktikum 05 Flutter
 
-Nama: Muh Farid
+Nama: Muh Farid  <br>
+
 NIM: H0724511
 
 
@@ -8,6 +9,8 @@ NIM: H0724511
  🔹 Praktikum 1: Membuat Project Flutter
 
  📸 Hasil
+
+ 
 langkah 1
 
 <img width="518" height="761" alt="praktikum1_screenshot" src="https://github.com/user-attachments/assets/cbb9bfe2-db67-4a39-9dfd-8d5e01d48638" />
