@@ -31,12 +31,12 @@ Saya membuat project Flutter menggunakan perintah `flutter create` dan berhasil 
 🔹 Praktikum 2: GitHub
 📸 Hasil
 
-LANGKAH 1
+langkah 1 <br>
 
 
 <img width="1431" height="672" alt="Screenshot 2026-04-06 203115" src="https://github.com/user-attachments/assets/fbb33cbf-1f0c-47e0-ba16-260ef965e9c5" />
 
-LANGKAH 2 
+langkah 2 <br>
 
 <img width="1395" height="518" alt="Screenshot 2026-04-06 203149" src="https://github.com/user-attachments/assets/723ee82f-b1c4-4707-8e22-bcf900851bfe" />
 
@@ -49,14 +49,14 @@ Saya membuat repository GitHub dan berhasil mengupload project menggunakan git.
 ---
 
 🔹 Praktikum 3: Menjalankan di Device
-📸 Hasil di HP
+📸 Hasil di HP <br>
 
-langkah 1
+langkah 1 <br>
 
 
 <img width="983" height="250" alt="Screenshot 2026-04-07 061744" src="https://github.com/user-attachments/assets/8bfa9144-2813-4592-a013-a631f4f0a206" />
 
-langkah 2
+langkah 2 <br>
 
 
 ![WhatsApp Image 2026-04-07 at 06 43 21](https://github.com/user-attachments/assets/504f9d98-4ff6-4234-976d-6187ee0db6fb)
