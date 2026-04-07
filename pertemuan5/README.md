@@ -29,6 +29,8 @@ Saya membuat project Flutter menggunakan perintah `flutter create` dan berhasil 
 ---
 
 🔹 Praktikum 2: GitHub
+
+
 📸 Hasil
 
 langkah 1 <br>
@@ -36,7 +38,11 @@ langkah 1 <br>
 
 <img width="1431" height="672" alt="Screenshot 2026-04-06 203115" src="https://github.com/user-attachments/assets/fbb33cbf-1f0c-47e0-ba16-260ef965e9c5" />
 
+
+
 langkah 2 <br>
+
+
 
 <img width="1395" height="518" alt="Screenshot 2026-04-06 203149" src="https://github.com/user-attachments/assets/723ee82f-b1c4-4707-8e22-bcf900851bfe" />
 
@@ -49,6 +55,8 @@ Saya membuat repository GitHub dan berhasil mengupload project menggunakan git.
 ---
 
 🔹 Praktikum 3: Menjalankan di Device <br>
+
+
 📸 Hasil di HP <br>
 
 langkah 1 <br>
@@ -67,8 +75,12 @@ langkah 2 <br>
 
 Saya menghubungkan HP dengan USB Debugging dan menjalankan aplikasi menggunakan flutter run. <br>
 
-🔹 Praktikum 4: Stateless & Stateful
+🔹 Praktikum 4: Stateless & Stateful <br>
+
+
 📸 Hasil <br>
+
+
 langkah 1 <br>
 
 ![WhatsApp Image 2026-04-07 at 08 56 27](https://github.com/user-attachments/assets/fdf8f713-cce5-4a6c-987b-23da8b518c2e) <br>
