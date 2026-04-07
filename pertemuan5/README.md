@@ -90,6 +90,13 @@ langkah 2 <br>
 
 ![WhatsApp Image 2026-04-07 at 09 22 35](https://github.com/user-attachments/assets/e01a2545-3fcb-4a88-94f8-d206d57ba77f) <br>
 
+langkah 3 <br>
+
+![WhatsApp Image 2026-04-07 at 12 35 58](https://github.com/user-attachments/assets/b0d56969-6975-462a-a929-87aa81459caa) <br>
+
+tugas chalenge <br>
+
+![WhatsApp Image 2026-04-07 at 12 42 22](https://github.com/user-attachments/assets/43dd7980-c929-416c-80b4-6225f1e0efc8)
 
 
 
