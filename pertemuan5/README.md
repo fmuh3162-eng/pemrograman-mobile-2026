@@ -75,7 +75,7 @@ langkah 2 <br>
 
 Saya menghubungkan HP dengan USB Debugging dan menjalankan aplikasi menggunakan flutter run. <br>
 
-🔹 Praktikum 4: Stateless & Stateful <br>
+🔹 Praktikum 4: statles dan statefull <br>
 
 
 📸 Hasil <br>
