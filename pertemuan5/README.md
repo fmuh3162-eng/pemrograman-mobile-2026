@@ -65,7 +65,25 @@ langkah 2 <br>
 
 📝 Penjelasan
 
-Saya menghubungkan HP dengan USB Debugging dan menjalankan aplikasi menggunakan flutter run.
+Saya menghubungkan HP dengan USB Debugging dan menjalankan aplikasi menggunakan flutter run. <br>
+
+🔹 Praktikum 4: Stateless & Stateful
+📸 Hasil <br>
+langkah 1 <br>
+
+![WhatsApp Image 2026-04-07 at 08 56 27](https://github.com/user-attachments/assets/fdf8f713-cce5-4a6c-987b-23da8b518c2e) <br>
+
+langkah 2 <br>
+
+
+![WhatsApp Image 2026-04-07 at 09 22 35](https://github.com/user-attachments/assets/e01a2545-3fcb-4a88-94f8-d206d57ba77f) <br>
+
+
+
+
+📝 Penjelasan
+
+Saya mempelajari perbedaan Stateless dan Stateful widget.
 
 
 ---
