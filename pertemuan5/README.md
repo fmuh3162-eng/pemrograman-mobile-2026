@@ -48,7 +48,7 @@ Saya membuat repository GitHub dan berhasil mengupload project menggunakan git.
 
 ---
 
-🔹 Praktikum 3: Menjalankan di Device
+🔹 Praktikum 3: Menjalankan di Device <br>
 📸 Hasil di HP <br>
 
 langkah 1 <br>
