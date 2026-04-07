@@ -105,6 +105,22 @@ tugas chalenge <br>
 Saya mempelajari perbedaan Stateless dan Stateful widget.
 
 
+🔹 Praktikum 5: Widget Dasar
+📸 Hasil <br>
+
+langkah 1
+
+![WhatsApp Image 2026-04-07 at 13 39 38](https://github.com/user-attachments/assets/d539d52d-0252-4bbd-b906-0b4d3340ad3d)
+
+
+
+
+
+📝 Penjelasan
+
+Saya menggunakan widget Text, Icon, dan Column untuk membuat tampilan sederhana.
+
+
 ---
 
 ## 🔹 Kesimpulan
