@@ -1,7 +1,7 @@
 # 📘 Pemrograman Mobile 2026
 
 ## 👨‍💻 Nama
-Muh. Farid  <br>
+MUH. FARID  <br>
 ## 👨‍💻 Nim 
 H0724511
 
