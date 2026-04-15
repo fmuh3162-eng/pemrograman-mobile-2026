@@ -94,7 +94,7 @@ Fokus pada pengaturan teks seperti ukuran font, warna, dan alignment agar tampil
 
 
 **Penjelasan:**  
-Menambahkan gambar ke dalam aplikasi dan mengatur layout agar lebih menarik dan responsif.
+Menambahkan gambar ke dalam aplikasi dan membuat gambar tampilan menjadi tinggi dan jarak antar sectionnya 20
 
 ---
 
