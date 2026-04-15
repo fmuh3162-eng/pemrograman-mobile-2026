@@ -9,19 +9,28 @@ H0724511
 
 ## 📚 Pokok Bahasan / Materi
 
-### 1. Konsep Layout di Flutter <br>
 
-<img width="1919" height="883" alt="Screenshot 2026-04-13 141102" src="https://github.com/user-attachments/assets/71c905e4-cb55-47e1-9506-26ab70d11529" />
+
+### 1. Praktikum 1: Mengatur Tata Letak (Layout) di Flutter <br>
+
+<img width="1919" height="883" alt="Screenshot 2026-04-13 141102" src="https://github.com/user-attachments/assets/34aec4f9-e8c8-4bc6-ab9f-c44bbe8fae29" />
+
 
 
 **Penjelasan:**  
-Materi ini membahas dasar-dasar layout di Flutter seperti penggunaan `Row`, `Column`, dan `Container` untuk menyusun tampilan aplikasi.
+Pada praktikum ini, saya telah belajar:
+
+- Mengatur layout menggunakan Row dan Column
+- Menggunakan Container untuk margin
+- Menampilkan gambar dari internet
+- Menggunakan Card untuk tampilan yang lebih rapi
 
 ---
 
-### 2. Praktikum 1: Mengatur Tata Letak (Layout) di Flutter <br>
+### 2. Praktikum 2: Membangun Layout di Flutter <br>
 
-<img width="1919" height="868" alt="Screenshot 2026-04-13 143836" src="https://github.com/user-attachments/assets/974acca8-816d-4327-ad28-3cf2bb7fd396" />
+<img width="1919" height="868" alt="Screenshot 2026-04-13 143836" src="https://github.com/user-attachments/assets/e81f410a-d8d2-475a-ab39-e2768bd9c9ef" />
+
 
 
 **Penjelasan:**  
@@ -31,14 +40,6 @@ Dari praktikum ini, saya sudah belajar:
 - Row → ke samping
 - Container → pembungkus
 - SizedBox → jarak
-
----
-
-### 3. Praktikum 2: Membangun Layout di Flutter
-![Screenshot](assets/pertemuan3.png)
-
-**Penjelasan:**  
-Membuat tampilan UI sederhana dengan kombinasi beberapa widget untuk membentuk layout yang lebih kompleks.
 
 ---
 
