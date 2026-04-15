@@ -43,7 +43,7 @@ Dari praktikum ini, saya sudah belajar:
 
 ---
 
-### 4. Praktikum 3: Widget Bertingkat (Nested Widget) <br>
+### 3. Praktikum 3: Widget Bertingkat (Nested Widget) <br>
 
 <img width="1548" height="828" alt="Screenshot 2026-04-13 151354" src="https://github.com/user-attachments/assets/329937b8-d677-4332-96b8-2a5eb142b512" />
 
@@ -59,7 +59,7 @@ Pada praktikum ini, saya telah belajar:
 
 ---
 
-### 5. Praktikum 4: Contoh Coding: Membuat Tampilan Login Sederhana <br>
+### 4. Praktikum 4: Contoh Coding: Membuat Tampilan Login Sederhana <br>
 
 <img width="1919" height="874" alt="Screenshot 2026-04-13 152812" src="https://github.com/user-attachments/assets/fd9c20e3-cb02-451c-bc51-b7b6faf0bf6a" />
 
@@ -69,8 +69,10 @@ Membuat halaman login sederhana dengan input field dan tombol menggunakan Flutte
 
 ---
 
-### 6. Praktikum 5: Membangun Layout UI Sederhana (Real Case)
-![Screenshot](assets/pertemuan6.png)
+### 5. Praktikum 5: Membangun Layout UI Sederhana (Real Case) <br>
+
+<img width="1919" height="856" alt="Screenshot 2026-04-15 144630" src="https://github.com/user-attachments/assets/90b011b8-2cca-4838-a56c-8f7b4ca0412c" />
+
 
 **Penjelasan:**  
 Mengimplementasikan layout UI berdasarkan studi kasus nyata seperti tampilan aplikasi wisata.
