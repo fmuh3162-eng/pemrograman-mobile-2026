@@ -89,8 +89,9 @@ Fokus pada pengaturan teks seperti ukuran font, warna, dan alignment agar tampil
 
 ---
 
-### 8. Praktikum 7: Image Section & Layout Lebih Rapi
-![Screenshot](assets/pertemuan8.png)
+### 8. Praktikum 7: Image Section & Layout Lebih Rapi <br>
+<img width="1918" height="880" alt="Screenshot 2026-04-15 160730" src="https://github.com/user-attachments/assets/9e5fb20e-e8b7-4454-a60c-11bcba8428c9" />
+
 
 **Penjelasan:**  
 Menambahkan gambar ke dalam aplikasi dan mengatur layout agar lebih menarik dan responsif.
