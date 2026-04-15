@@ -19,8 +19,10 @@ Materi ini membahas dasar-dasar layout di Flutter seperti penggunaan `Row`, `Col
 
 ---
 
-### 2. Praktikum 1: Mengatur Tata Letak (Layout) di Flutter
-![Screenshot](assets/pertemuan2.png)
+### 2. Praktikum 1: Mengatur Tata Letak (Layout) di Flutter <br>
+
+<img width="1919" height="868" alt="Screenshot 2026-04-13 143836" src="https://github.com/user-attachments/assets/974acca8-816d-4327-ad28-3cf2bb7fd396" />
+
 
 **Penjelasan:**  
 Pada praktikum ini, dilakukan latihan mengatur posisi widget menggunakan properti seperti `mainAxisAlignment` dan `crossAxisAlignment`.
