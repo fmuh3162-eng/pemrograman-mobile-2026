@@ -25,7 +25,12 @@ Materi ini membahas dasar-dasar layout di Flutter seperti penggunaan `Row`, `Col
 
 
 **Penjelasan:**  
-Pada praktikum ini, dilakukan latihan mengatur posisi widget menggunakan properti seperti `mainAxisAlignment` dan `crossAxisAlignment`.
+Dari praktikum ini, saya sudah belajar:
+
+- Column → ke bawah
+- Row → ke samping
+- Container → pembungkus
+- SizedBox → jarak
 
 ---
 
