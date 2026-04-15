@@ -43,16 +43,26 @@ Dari praktikum ini, saya sudah belajar:
 
 ---
 
-### 4. Praktikum 3: Widget Bertingkat (Nested Widget)
-![Screenshot](assets/pertemuan4.png)
+### 4. Praktikum 3: Widget Bertingkat (Nested Widget) <br>
+
+<img width="1548" height="828" alt="Screenshot 2026-04-13 151354" src="https://github.com/user-attachments/assets/329937b8-d677-4332-96b8-2a5eb142b512" />
+
+
 
 **Penjelasan:**  
-Materi ini menjelaskan penggunaan widget di dalam widget (nested) untuk membangun struktur UI yang lebih terorganisir.
+Pada praktikum ini, saya telah belajar:
+
+- Konsep **widget bertingkat (nested widget)**
+- Menyusun UI menggunakan beberapa widget sekaligus
+- Menampilkan gambar dari folder lokal (assets)
+- Mengatur jarak menggunakan `SizedBox`
 
 ---
 
-### 5. Praktikum 4: Contoh Coding: Membuat Tampilan Login Sederhana
-![Screenshot](assets/pertemuan5.png)
+### 5. Praktikum 4: Contoh Coding: Membuat Tampilan Login Sederhana <br>
+
+<img width="1919" height="874" alt="Screenshot 2026-04-13 152812" src="https://github.com/user-attachments/assets/fd9c20e3-cb02-451c-bc51-b7b6faf0bf6a" />
+
 
 **Penjelasan:**  
 Membuat halaman login sederhana dengan input field dan tombol menggunakan Flutter.
