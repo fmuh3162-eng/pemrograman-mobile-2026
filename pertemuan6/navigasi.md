@@ -26,8 +26,12 @@
 
 ### 📸 Screenshot
 
-![Home](images/p2_home.png)
-![Detail](images/p2_detail.png)
+<img width="1919" height="872" alt="Screenshot 2026-04-19 123656" src="https://github.com/user-attachments/assets/41af7dc7-6a43-4739-982a-70d78713bdd7" /> <br>
+
+<img width="1919" height="870" alt="Screenshot 2026-04-19 123710" src="https://github.com/user-attachments/assets/749d00ab-6c40-4925-92c9-56cb1168a326" />
+
+
+
 
 ### 📝 Penjelasan
 
@@ -41,8 +45,10 @@
 
 ### 📸 Screenshot
 
-![Form](images/p25_form.png)
-![Hasil](images/p25_detail.png)
+<img width="1542" height="835" alt="Screenshot 2026-04-19 145641" src="https://github.com/user-attachments/assets/d22a15d2-0dee-4070-b566-2f7f60cb6556" /> <br>
+<img width="1547" height="823" alt="Screenshot 2026-04-19 145655" src="https://github.com/user-attachments/assets/44f59ac3-14c5-482b-afe9-db131c3abb4d" />
+
+
 
 ### 📝 Penjelasan
 
