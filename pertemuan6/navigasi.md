@@ -62,7 +62,12 @@
 
 ### 📸 Screenshot
 
-![Route](images/p3_route.png)
+<img width="1919" height="867" alt="Screenshot 2026-04-19 164441" src="https://github.com/user-attachments/assets/b1829202-127e-42fa-87be-4958d34265ba" /> <br>
+<img width="1913" height="872" alt="Screenshot 2026-04-19 164450" src="https://github.com/user-attachments/assets/c4d5799f-c669-43ee-9788-19cf1a7d4d29" /> <br>
+<img width="1919" height="873" alt="Screenshot 2026-04-19 164503" src="https://github.com/user-attachments/assets/0809f717-05ff-4d96-bcde-b8dd25bb9743" />
+
+
+
 
 ### 📝 Penjelasan
 
@@ -76,8 +81,10 @@
 
 ### 📸 Screenshot
 
-![Form](images/p35_form.png)
-![Detail](images/p35_detail.png)
+<img width="1917" height="872" alt="Screenshot 2026-04-19 175821" src="https://github.com/user-attachments/assets/1cbf6434-d496-4898-8de9-15073281160d" /> <br>
+<img width="1919" height="875" alt="Screenshot 2026-04-19 175832" src="https://github.com/user-attachments/assets/7fce1167-e7ad-4dbe-acfd-2e9c176d2b0e" />
+
+
 
 ### 📝 Penjelasan
 
@@ -93,7 +100,8 @@
 
 ### 📸 Screenshot
 
-![ListView](images/p4_list.png)
+<img width="1919" height="869" alt="Screenshot 2026-04-19 181433" src="https://github.com/user-attachments/assets/3bc0b491-5115-48b2-bc13-61dcb992d60f" />
+
 
 ### 📝 Penjelasan
 
@@ -107,8 +115,10 @@
 
 ### 📸 Screenshot
 
-![List](images/p5_list.png)
-![Detail](images/p5_detail.png)
+<img width="1589" height="929" alt="Screenshot 2026-04-19 182232" src="https://github.com/user-attachments/assets/85ae4418-9f4c-4e0e-9d0c-2b564be33002" /> <br>
+<img width="1553" height="835" alt="Screenshot 2026-04-19 182202" src="https://github.com/user-attachments/assets/f2c0e527-8986-4c01-b15a-58b21e019069" />
+
+
 
 ### 📝 Penjelasan
 
