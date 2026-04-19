@@ -132,8 +132,10 @@
 
 ### 📸 Screenshot
 
-![Home](images/p6_home.png)
-![Detail](images/p6_detail.png)
+<img width="1918" height="868" alt="Screenshot 2026-04-19 203545" src="https://github.com/user-attachments/assets/9ef50878-6dda-4cf5-82cf-d040fe35c4f1" /> <br>
+<img width="1919" height="880" alt="Screenshot 2026-04-19 203621" src="https://github.com/user-attachments/assets/8164c2a3-b82f-4e20-8cbd-f0aa3736fad9" />
+
+
 
 ### 📝 Penjelasan
 
