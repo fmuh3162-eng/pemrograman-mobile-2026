@@ -1,0 +1,33 @@
+name: apk_game
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.11.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+  
+  assets:
+    - assets/among_us.jpeg
+    - assets/ASPHALT.jpeg
+    - assets/call_mobile.jpeg
+    - assets/COC.jpeg
+    - assets/free_fire.jpeg
+    - assets/gensin_impect.jpeg
+    - assets/MINECRAFT.jpeg
+    - assets/mobile_legends.jpeg
+    - assets/pugb_mobile.jpg
+    - assets/SUBWAY_SURFERS.jpeg
